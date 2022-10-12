@@ -1,6 +1,6 @@
 {
   "name": "fillin-gantt",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "description": "Interactive Gantt Chart for React with TypeScript.",
   "author": "BrilliantDecision <alexmobilepost@gmail.com>",
   "homepage": "https://github.com/BrilliantDecision/Fillin-gantt",
